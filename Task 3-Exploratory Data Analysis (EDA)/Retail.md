@@ -13,11 +13,6 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 - **Total Sales:** $2.3M
 
 ### Sales Performance Analysis:
-- **Sales by Region (North America):**
-  - West: 31.58%
-  - East: 29.55%
-  - Central: 21.82%
-  - South: 17.05%
 - **Sales by Category:**
   - Technology: $836k (Highest)
   - Furniture: $742k
