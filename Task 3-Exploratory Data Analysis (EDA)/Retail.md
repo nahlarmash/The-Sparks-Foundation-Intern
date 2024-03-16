@@ -52,7 +52,9 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
  
 ### Geographical Analysis:
 - **Profit by State:**
-  - California: %76.38k (Highest)
+  - California: $76.38k (Highest)
+  - New York: $74k
+  - Texax: $-26k (Lowest, Loss)
 - **Profit vs. Sales by Region (North America):**
   - **West:**
     - Profit: $108k
@@ -74,16 +76,16 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 
 ### Discount Analysis:
 - **Discount vs. Profit Margin by Region:**
-  #### West:
+  - **West:**
     - **Total Profit**: $70k
     - **Total Discount**: $350
-  #### East:
+  - **East:**
     - **Total Profit**: $48k
     - **Total Discount**: $414
-  #### South:
+  - **South:**
     - **Total Profit**: $26k
     - **Total Discount**: $239
-  #### Central:
+  - **Central:**
     - **Total Profit**: $-24k (Loss)
     - **Total Discount**: $558
       
