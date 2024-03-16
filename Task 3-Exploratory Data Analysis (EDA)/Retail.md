@@ -106,7 +106,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
 ### Targeted Regional Growth:
    - Improve profitability in underperforming regions like Texas by addressing profit loss factors through targeted marketing efforts. Expand market presence in regions like Central and South to drive revenue growth.
 ### Personalized Customer Engagement:
-   - Tailor marketing campaigns to cater to diverse customer segments such as individual consumers, corporate clients, and home offices. Provide personalized services to enhance customer satisfaction and loyalty, leading to increased long-term profitability.
+   - Tailor marketing campaigns to cater to diverse customer segments such as consumers, corporate clients, and home offices. Provide personalized services to enhance customer satisfaction and loyalty, leading to increased long-term profitability.
 ### Efficient Shipping Operations:
    - Streamline shipping processes to enhance cost efficiency, focusing on optimizing the Standard Class shipping mode for maximum profitability. Implement cost-saving measures to reduce expenses and improve overall profitability.
 
