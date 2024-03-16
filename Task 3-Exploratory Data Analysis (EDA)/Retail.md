@@ -92,7 +92,7 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 
 ## Interactive Dashboard
 
-<img width="633" alt="image" src="https://drive.google.com/file/d/1NdxA0mWvVfTnPZaRjU0B-XOZHgkFoC8g/view?usp=drive_link">
+<img width="633" alt="image" src="https://github.com/nahlarmash/The-Sparks-Foundation-Intern/blob/main/Task%203-Exploratory%20Data%20Analysis%20(EDA)/Screenshot%202024-03-16%20152632.png">
 
 
 ## Recommendations for Business Optimization:
