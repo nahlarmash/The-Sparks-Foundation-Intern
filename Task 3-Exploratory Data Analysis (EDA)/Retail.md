@@ -25,6 +25,8 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
      - Storage: $223.84k
   - **Lowest Sales:**
      - Fasteners: $3k
+     - Labels: $12.49k
+     - Envelopes: $16.48k
 
 ### Profitability Analysis:
 - **Profit by Category:**
