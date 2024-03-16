@@ -59,10 +59,18 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 - **Profit by State:**
   - California: %76.38k (Highest)
 - **Profit vs. Sales by Region (North America):**
-  - West: $108k                    - West: $725k                     
-  - East: $92k                     - East: $679k
-  - Central: $40k                  - Central: $501k
-  - South: $47k                    - South: $392k
+  - **West:**
+    - Profit: $108k
+    - Sales: $725k
+  - **East:**                    
+    - Profit: $92k
+    - Sales: $679k
+  - **Central:**
+    - Profit: $40k
+    - Sales: $501k
+  - **South:**
+    - Profit: $47k
+    - Sales: $392k
 
 ## Shipping Analysis:
 - **Profit by Ship Mode:**
