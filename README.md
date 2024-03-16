@@ -8,3 +8,8 @@
 - The dataset used for this task can be found at: (http://bit.ly/w-data)
 
  > **Task:** What will be predicted score if a student studies for 9.25 hrs/day?
+
+
+### **Task3:** Exploratory Data Analysis (EDA) - Retail
+- The objective of this task is to perform EDA on Sample Superstore dataset.
+ > **Task:**  Find out the weak areas to make more profit and derive all business problems by exploring the data.
