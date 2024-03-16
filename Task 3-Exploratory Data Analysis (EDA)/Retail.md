@@ -90,7 +90,9 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
     - **Total Discount**: $558
       
 
+## Interactive Dashboard
 
+<img width="633" alt="image" src="https://drive.google.com/file/d/1NdxA0mWvVfTnPZaRjU0B-XOZHgkFoC8g/view?usp=drive_link">
 
 
 ## Recommendations for Business Optimization:
