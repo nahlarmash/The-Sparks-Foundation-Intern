@@ -12,16 +12,16 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 - **Total Quantity Sold:** 37.9k
 - **Total Sales:** $2.3M
 
-## Sales Performance Analysis:
+### Sales Performance Analysis:
 - **Sales by Region (North America):**
   - West: 31.58%
   - East: 29.55%
   - Central: 21.82%
   - South: 17.05%
 - **Sales by Category:**
-  -Technology: $836k (Highest)
-  -Furniture: $742k
-  -Office Supplies: $719k
+  - Technology: $836k (Highest)
+  - Furniture: $742k
+  - Office Supplies: $719k
 - **Sales by Sub-Category:**
   - **Highest Sales:**
      - Phones: $330k
@@ -30,11 +30,11 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
   - **Lowest Sales:**
      - Fasteners: $3k
 
-## Profitability Analysis:
+### Profitability Analysis:
 - **Profit by Category:**
-  -Technology: $145k (Highest)
-  -Office Supplies: $122k
-  -Furniture: $18k (Lowest)
+  - Technology: $145k (Highest)
+  - Office Supplies: $122k
+  - Furniture: $18k (Lowest)
 - **Profit by Sub-Category:**
   - **Highest Profit:**
      - Copiers: $55.62k
@@ -44,7 +44,7 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
      - Tables: $-17.73k
      - Bookcases: $-3.47k
    
-## Customer Segmentation:
+### Customer Segmentation:
 - **Consumer:**
   - Sales: $1.16M
   - Profit: $134k
@@ -55,7 +55,7 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
   - Sales: $430k
   - Profit: $60k
  
-## Geographical Analysis:
+### Geographical Analysis:
 - **Profit by State:**
   - California: %76.38k (Highest)
 - **Profit vs. Sales by Region (North America):**
@@ -72,23 +72,23 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
     - Profit: $47k
     - Sales: $392k
 
-## Shipping Analysis:
+### Shipping Analysis:
 - **Profit by Ship Mode:**
   - Standard Class: $164k (Highest)
   - Same Day: $16k (Lowest)
 
-## Discount Analysis:
+### Discount Analysis:
 - **Discount vs. Profit Margin by Region:**
-  ### West:
+  #### West:
     - **Total Profit**: $70k
     - **Total Discount**: $350
-  ### East:
+  #### East:
     - **Total Profit**: $48k
     - **Total Discount**: $414
-  ### South:
+  #### South:
     - **Total Profit**: $26k
     - **Total Discount**: $239
-  ### Central:
+  #### Central:
     - **Total Profit**: $-24k (Loss)
     - **Total Discount**: $558
       
