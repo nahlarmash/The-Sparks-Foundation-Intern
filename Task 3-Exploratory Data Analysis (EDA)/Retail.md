@@ -57,17 +57,17 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
   - Texax: $-26k (Lowest, Loss)
 - **Profit vs. Sales by Region (North America):**
   - **West:**
-    - Profit: $108k
     - Sales: $725k
-  - **East:**                    
+    - Profit: $108k
+  - **East:**
+    - Sales: $679k                
     - Profit: $92k
-    - Sales: $679k
   - **Central:**
-    - Profit: $40k
     - Sales: $501k
+    - Profit: $40k
   - **South:**
-    - Profit: $47k
     - Sales: $392k
+    - Profit: $47k
 
 ### Shipping Analysis:
 - **Profit by Ship Mode:**
