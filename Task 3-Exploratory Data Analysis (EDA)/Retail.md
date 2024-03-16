@@ -36,8 +36,8 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
      - Phones: $44.52k
      - Accessories: $41.94k
   - **Lowest Profit:**
-     - Tables: $-17.73k
-     - Bookcases: $-3.47k
+     - Tables: $-17.73k (Loss)
+     - Bookcases: $-3.47k (Loss)
    
 ### Customer Segmentation:
 - **Consumer:**
