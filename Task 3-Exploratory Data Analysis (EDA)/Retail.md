@@ -1,6 +1,6 @@
 ## Exploratoy Data Analysis (EDA) - Retail
 
-###**Dataset:** Sample Superstore
+ **Dataset:** Sample Superstore
 
 ## Overview:
 This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Superstore dataset to uncover valuable insights that can drive business optimization strategies. By analyzing various aspects of sales, profitability, and other key metrics, The analysis seek to identify weak areas for business improvement. Through data exploration and visualization, the project aim to provide actionable recommendations to maximize profitability and improve overall business performance.
