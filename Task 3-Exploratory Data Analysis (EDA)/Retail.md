@@ -107,7 +107,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
    - To improve profitability in regions with lower performance such as Texas, the company should address root causes of profit loss through targeted marketing campaigns. Additionally, expanding market reach can drive profitability growth in regions like the Central and South.
 
 ### 4. Customer Segmentation and Engagement:
-   - Utilize customer segmentation insights to tailor marketing messages and promotions to different customer segments, such as Consumers, Corporates, and Home Offices. Enhance customer engagement and satisfaction through personalized interactions and exceptional service to drive repeat business and long-term profitability.
+   - Tailor marketing messages and promotions to different types of customers, like individual consumers, corporate clients, and home offices. Provide personalized interactions and exceptional service to keep customers engaged and satisfied, encouraging them to return and boosting long-term profitability.
 
 ### 5. Streamline Shipping Processes and Cost Efficiency:
    - Optimize shipping operations to reduce costs and improve efficiency, with a focus on the Standard Class shipping mode, which generates the highest profit. Implement cost-saving measures to minimize expenses and enhance overall profitability.
