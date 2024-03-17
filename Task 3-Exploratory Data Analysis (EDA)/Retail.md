@@ -14,12 +14,12 @@ An interactive dashboard offers comprehensive insights into the sales performanc
 
 ## Key Findings:
 
-### Business Overview:
+### 1. Business Overview:
 - **Total Profit:** $286.4k
 - **Total Quantity Sold:** 37.9k
 - **Total Sales:** $2.3M
 
-### Sales Performance Analysis:
+### 2. Sales Performance Analysis:
 - **Sales by Category:**
   - Technology: $836k (Highest)
   - Furniture: $742k
@@ -34,7 +34,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
      - Labels: $12.49k
      - Envelopes: $16.48k
 
-### Profitability Analysis:
+### 3. Profitability Analysis:
 - **Profit by Category:**
   - Technology: $145k (Highest)
   - Office Supplies: $122k
@@ -48,7 +48,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
      - Tables: $-17.73k (Loss)
      - Bookcases: $-3.47k (Loss)
    
-### Customer Segmentation:
+### 4. Customer Segmentation:
 - **Consumer:**
   - Sales: $1.16M
   - Profit: $134k
@@ -59,7 +59,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
   - Sales: $430k
   - Profit: $60k
  
-### Geographical Analysis:
+### 5. Geographical Analysis:
 - **Profit by State:**
   - California: $76.38k (Highest)
   - New York: $74k
@@ -78,12 +78,12 @@ An interactive dashboard offers comprehensive insights into the sales performanc
     - Sales: $392k
     - Profit: $47k
 
-### Shipping Analysis:
+### 6. Shipping Analysis:
 - **Profit by Ship Mode:**
   - Standard Class: $164k (Highest)
   - Same Day: $16k (Lowest)
 
-### Discount Analysis:
+### 7. Discount Analysis:
 - **Discount vs. Profit Margin by Region:**
   - **West:**
     - **Total Profit**: $70k
