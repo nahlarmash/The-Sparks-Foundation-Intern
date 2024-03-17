@@ -6,6 +6,12 @@
 ## Overview:
 This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Superstore dataset to uncover valuable insights that can drive business optimization strategies.
 
+## Interactive Dashboard
+
+<img width="633" alt="image" src="https://github.com/nahlarmash/The-Sparks-Foundation-Intern/blob/main/Task%203-Exploratory%20Data%20Analysis%20(EDA)/Sample%20Super%20Store%20Dashboard.png">
+An interactive dashboard offers comprehensive insights into the sales performance, profitability analysis, and geographical trends of the Sample Superstore dataset, enabling users to gain valuable insights and make data-driven decisions.
+
+
 ## Key Findings:
 
 ### Business Overview:
@@ -92,11 +98,6 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
     - **Total Profit**: $-24k (Loss)
     - **Total Discount**: $558
       
-
-## Interactive Dashboard
-
-<img width="633" alt="image" src="https://github.com/nahlarmash/The-Sparks-Foundation-Intern/blob/main/Task%203-Exploratory%20Data%20Analysis%20(EDA)/Sample%20Super%20Store%20Dashboard.png">
-An interactive dashboard offers comprehensive insights into the sales performance, profitability analysis, and geographical trends of the Sample Superstore dataset, enabling users to gain valuable insights and make data-driven decisions.
 
 ## Recommendations for Business Optimization:
 ### 1. Categories optimization:
