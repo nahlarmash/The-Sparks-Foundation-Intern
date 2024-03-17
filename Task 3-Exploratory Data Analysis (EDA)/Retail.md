@@ -1,7 +1,7 @@
 ## Exploratoy Data Analysis (EDA) - Retail
 
  **Author:** Nahla Mohamed Armash
- ### Dataset: Sample Superstore
+ ### Dataset: Sample Superstore (https://bit.ly/4aiLJpU)
  
 ## Overview:
 This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Superstore dataset to uncover valuable insights that can drive business optimization strategies.
