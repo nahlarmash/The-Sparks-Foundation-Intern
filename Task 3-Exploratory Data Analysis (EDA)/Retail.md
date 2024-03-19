@@ -64,7 +64,7 @@ An interactive dashboard offers comprehensive insights into the sales performanc
   - California: $76.38k (Highest)
   - New York: $74k
   - Texas: $-26k (Lowest, Loss)
-- **Profit vs. Sales by Region (North America):**
+- **Profit & Sales by Region (North America):**
   - **West:**
     - Sales: $725k
     - Profit: $108k
