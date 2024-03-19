@@ -12,7 +12,7 @@ This project aims to conduct Exploratory Data Analysis (EDA) on the Sample Super
 An interactive dashboard offers comprehensive insights into the sales performance, profitability analysis, and geographical trends of the Sample Superstore dataset, enabling users to gain valuable insights and make data-driven decisions.
 
 
-## Key Findings:
+## Key Insights:
 
 ### 1. Business Overview:
 - **Total Profit:** $286.4k
