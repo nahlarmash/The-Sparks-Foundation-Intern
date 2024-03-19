@@ -12,4 +12,4 @@
 
 ### **Task3:** Exploratory Data Analysis (EDA) - Retail
 - The objective of this task is to perform EDA on Sample Superstore dataset.
- > **Task:**  Find out the weak areas to make more profit and derive all business problems by exploring the data.
+ > **Task:** Explore the dataset provided and extract key insights with the help of data visualization to find out areas to maximize profit for the retail store.
